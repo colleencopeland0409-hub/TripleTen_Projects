@@ -1,5 +1,5 @@
 # TripleTen_Projects
-Projects completed while at TripleTen in the Business Intelligence Bootcamp
+Projects completed while at TripleTen in the Business Intelligence Bootcamp, and some personal projects for growth.
 
 
 | Project number | Title | Description |
